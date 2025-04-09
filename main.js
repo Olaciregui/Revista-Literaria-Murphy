@@ -39,3 +39,15 @@ medie.addEventListener('mouseleave',()=>{
     medie.style.color ='white'
 
 })
+
+clasic.addEventListener('click',()=>{
+    window.location.href = "./about.html"
+
+})
+
+
+medie.addEventListener('click',()=>{
+    window.location.url = "./about2.html"
+    
+
+})
