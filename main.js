@@ -41,13 +41,11 @@ medie.addEventListener('mouseleave',()=>{
 })
 
 clasic.addEventListener('click',()=>{
-    window.location.href = "./about.html"
+    window.location.href = "https://olaciregui.github.io/Revista-Literaria-Murphy/about.html"
 
 })
 
 
 medie.addEventListener('click',()=>{
-    window.location.url = "./about2.html"
-    
-
+    window.location.href = "https://olaciregui.github.io/Revista-Literaria-Murphy/about2.html"
 })
