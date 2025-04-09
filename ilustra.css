@@ -99,7 +99,7 @@ span{
 .ilustra{
     color: rgb(0, 0, 0);
     display: flex;
-    background-image: url(../proj.webp);
+    background-image: url();
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
