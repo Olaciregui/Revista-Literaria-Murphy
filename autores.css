@@ -8,6 +8,7 @@
     font-family: aleo;
 }
 
+
 body{
     display: flex;
     justify-content: center;
@@ -71,33 +72,38 @@ a:hover{
 section{
     display: flex;
     background-color: rgb(36, 36, 36) ;
-    height: 400px;
-    width: 80%;
+    height: 500px;
+    width: 900px;
     color: white;
     justify-content: center;
     align-items: center;
-    padding: 30px;
+    
 }
 div{
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 10px;
-    margin: 10px;
+    width: 30%;
+    height: 100%;
 }
 
 img{
     border-radius: 5px;
-    width: 450px;
-    height: 300px;
+    width: 300px;
+    height: 350px;
+    margin: 60px;
 }
 
 span{
     color:gray;
 }
 
+
+.autor :hover{
+    transform: scale(1.1);
+}
 .ilustra{
-    color: rgb(0, 0, 0);
     display: flex;
     background-image: url();
     background-position: center;
