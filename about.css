@@ -6,6 +6,7 @@
     list-style: none;
     transition: 0.2s;
     font-family: aleo;
+    
 }
 
 body{
@@ -69,19 +70,22 @@ a:hover{
 section{
     display: flex;
     background-color: rgb(36, 36, 36) ;
-    height: 400px;
+    
     width: 80%;
     color: white;
     justify-content: center;
     align-items: center;
     padding: 30px;
 }
-div{
+.texto{
     display: flex;
     flex-direction: column;
     justify-content: center;
     gap: 10px;
     margin: 10px;
+    width: 900px;
+    
+
 }
 
 img{
@@ -111,3 +115,4 @@ p{
     height: 400px;
     font-size: 30px;
 }
+
